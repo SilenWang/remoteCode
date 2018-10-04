@@ -1,0 +1,10 @@
+{
+    "port": 52698,
+    "Node": {
+        "Chuwi": {
+            "address": "192.168.0.100",
+            "user": "silen",
+            "key": "~/.ssh/chuwi_key"
+        }
+    }
+}
